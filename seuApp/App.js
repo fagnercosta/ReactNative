@@ -16,13 +16,12 @@
 
 const App: () => Node = () => {
  
- 
-
   return (
       <View>
           <Text>Ola</Text>
       </View>
   );
 
-  
 };
+
+export default App;
